@@ -1,0 +1,30 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\nmap J scrollPageDown\nmap K scrollPageUp",
+  "settingsVersion": "2.0.4",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://leetcode.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.omegle.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://colab.research.google.com/*"
+    },
+    {
+      "passKeys": "tHLxXd",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.gimkit.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.overleaf.com/*"
+    }
+  ]
+}
